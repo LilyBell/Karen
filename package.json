@@ -1,0 +1,23 @@
+{
+  "name": "karen",
+  "version": "1.0.0",
+  "description": "personal application assistant",
+  "main": "app.js",
+  "scripts": {
+    "test": "validate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilyBell/Karen.git"
+  },
+  "author": "Aurelia Womack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LilyBell/Karen/issues"
+  },
+  "homepage": "https://github.com/LilyBell/Karen#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "vorpal": "^1.12.0"
+  }
+}
