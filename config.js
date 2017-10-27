@@ -7,7 +7,10 @@ config.default = {
     'primary_color' : 'magenta'
 };
 
-confg.first_run = {'name': 'What\'s your name?'};
+config.first_run = {
+    'greeting' : 'Hello, I\'m Karen.',
+    'name': 'What\'s your name?'
+};
 
 config.user = {};
 

@@ -4,7 +4,8 @@ const chalk = require('chalk');
 
 
 module.exports = {
-    greeting : function (greeting) {
+    log : function (greeting) {
         vorpal.log(chalk.magenta(greeting));
     }
 };
+
